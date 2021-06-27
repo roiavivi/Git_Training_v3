@@ -1,2 +1,3 @@
 this is sample file 2
 git revert test`
+this is a test 2
